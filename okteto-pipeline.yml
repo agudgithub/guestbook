@@ -1,8 +1,0 @@
-deploy:
-  - frontend-deployment.yml
-  - frontend-service.yml
-  - redis-master-deployment.yml
-  - redis-master-service
-  - redis-slave-deployment.yml
-  - redis-slave-service
-
